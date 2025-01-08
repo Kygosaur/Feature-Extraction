@@ -92,10 +92,3 @@ The tool generates:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-[Add your chosen license here]
-
-## Author
-
-[Your name/organization]
