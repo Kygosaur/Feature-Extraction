@@ -2,6 +2,9 @@
 
 A Python tool for extracting and visualizing feature maps from YOLOv8 models. This tool helps researchers and developers understand the internal representations learned by YOLO models by visualizing intermediate feature maps and providing detailed statistical analysis.
 
+<td><img src="[https://github.com/Kygosaur/Feature-Extraction/blob/main/docs/feature_maps_Test%20(1).jpg_Conv2d_2.png](https://github.com/Kygosaur/Feature-Extraction/blob/main/docs/Untitled%20diagram-2025-01-09-083039.png
+)" width="200"/><br>Original Image</td>
+
 ## Features
 
 - Extract feature maps from YOLOv8 models
