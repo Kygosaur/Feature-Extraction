@@ -56,6 +56,18 @@ visualizer = YOLOFeatureVisualizer(model_name='yolov8s.pt')
 - Extracts feature maps from convolutional layers in the first three model blocks
 - Processes images while maintaining aspect ratio
 - Automatically resizes and pads images to 640x640
+  
+Example feature map extractions:
+<table>
+  <tr>
+    <td><img src="https://github.com/Kygosaur/Feature-Extraction/blob/main/docs/feature_maps_Test%20(1).jpg_Conv2d_2.png" width="200"/><br>Original Image</td>
+    <td><img src="https://github.com/Kygosaur/Feature-Extraction/blob/main/docs/feature_maps_Test%20(1).jpg_Conv2d_7.png" width="200"/><br>Layer 1 Features</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Kygosaur/Feature-Extraction/blob/main/docs/feature_maps_Test%20(1).jpg_Conv2d_8.png" width="200"/><br>Layer 2 Features</td>
+    <td><img src="https://github.com/Kygosaur/Feature-Extraction/blob/main/docs/feature_maps_test%20(1).jpg_Conv2d_9.png" width="200"/><br>Layer 3 Features</td>
+  </tr>
+</table>
 
 ### Visualization
 - Generates heatmap visualizations for up to 16 channels per layer
