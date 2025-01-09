@@ -62,12 +62,12 @@ visualizer = YOLOFeatureVisualizer(model_name='yolov8s.pt')
 Example feature map extractions:
 <table>
   <tr>
-    <td><img src="https://github.com/Kygosaur/Feature-Extraction/blob/main/docs/feature_maps_Test%20(1).jpg_Conv2d_2.png" width="200"/><br>Original Image</td>
-    <td><img src="https://github.com/Kygosaur/Feature-Extraction/blob/main/docs/feature_maps_Test%20(1).jpg_Conv2d_7.png" width="200"/><br>Layer 1 Features</td>
+    <td><img src="https://github.com/Kygosaur/Feature-Extraction/blob/main/docs/feature_maps_Test%20(1).jpg_Conv2d_2.png" width="200"/><br>Feature Output</td>
+    <td><img src="https://github.com/Kygosaur/Feature-Extraction/blob/main/docs/feature_maps_Test%20(1).jpg_Conv2d_7.png" width="200"/><br>Feature Output</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Kygosaur/Feature-Extraction/blob/main/docs/feature_maps_Test%20(1).jpg_Conv2d_8.png" width="200"/><br>Layer 2 Features</td>
-    <td><img src="https://github.com/Kygosaur/Feature-Extraction/blob/main/docs/feature_maps_test%20(1).jpg_Conv2d_9.png" width="200"/><br>Layer 3 Features</td>
+    <td><img src="https://github.com/Kygosaur/Feature-Extraction/blob/main/docs/feature_maps_Test%20(1).jpg_Conv2d_8.png" width="200"/><br>Feature Output</td>
+    <td><img src="https://github.com/Kygosaur/Feature-Extraction/blob/main/docs/feature_maps_test%20(1).jpg_Conv2d_9.png" width="200"/><br>Feature Output</td>
   </tr>
 </table>
 
