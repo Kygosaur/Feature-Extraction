@@ -15,7 +15,7 @@ A Python tool for extracting and visualizing feature maps from YOLOv8 models. Th
 
 ## Requirements
 
-- Python 3.x
+- Python 3.9
 - PyTorch
 - Ultralytics YOLO
 - NumPy
